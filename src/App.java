@@ -8,4 +8,8 @@ class App{
 	public int mult(int x,int y) {
 		return x*y;
 	}
+	
+	public int div(int x,int y) {
+		return x/y;
+	}
 }
